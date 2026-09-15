@@ -1,0 +1,3 @@
+INGEST_TOKEN=replace-with-a-short-random-token
+CURSOR_WEBHOOK_URL=https://api2.cursor.sh/automations/webhook/replace-me
+CURSOR_WEBHOOK_AUTH=Bearer replace-with-cursor-webhook-token
